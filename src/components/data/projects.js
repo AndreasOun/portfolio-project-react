@@ -1,0 +1,48 @@
+export const ProjectData=[
+    {
+        id:1,
+        title:"Crypto Tracker",
+        about: "Lists top 100 cryptos by price, marketgap, volume and 24h price change. Cryptos can be clicked on for a detailed view! API is taken from CoinGecko! Click on the crypto tracker header for the list to load. ",
+        tags:["ReactJS", "Javascript", "NodeJS", "HTML/CSS"],
+        demo:"https://andreasoun.github.io/crypto-tracker/",
+        github:"https://github.com/AndreasOun/crypto-tracker",
+        image:require("./project-images/crypto-tracker.png"),
+    },
+    {
+        id:1,
+        title:"Casino Game Slot",
+        about: "Slot game called 'Fruit Bonanza!' User can choose different bet sizes for bigger prices. Calculates the win. Uses react hooks + more.",
+        tags:["ReactJS", "Javascript", "NodeJS", "HTML/CSS"],
+        demo:"https://andreasoun.github.io/slot-machine-react/",
+        github:"https://github.com/AndreasOun/slot-machine-react",
+        image:require("./project-images/casino-slot.png"),
+    },
+    {
+        id:1,
+        title:"Weather App",
+        about: "Users can look up weather in a specific city/country! API is from openweathermap",
+        tags:["Javascript", "TailWindCSS", "HTML"],
+        demo:"https://andreasoun.github.io/weatherapp/",
+        github:"https://github.com/AndreasOun/weatherapp",
+        image:require("./project-images/weather.png"),
+    },
+    {
+        id:1,
+        title:"Memory Game!",
+        about: "Fun game. Click on the cards to match 2 pairs. 7 Different levels",
+        tags:["ReactJS", "Javascript", "NodeJS", "HTML/CSS"],
+        demo:"https://andreasoun.github.io/memory-card-project/",
+        github:"https://github.com/AndreasOun/memory-card-project",
+        image:require("./project-images/memory-card.png"),
+    },
+    {
+        id:1,
+        title:"To-Do List",
+        about: "User can add tasks. User can categorize, choose a date and add priority. Tasks will be saved to browsers local storage. User can delete tasks after completion.",
+        tags:["Javascript", "NodeJS", "HTML/CSS"],
+        demo:"https://andreasoun.github.io/To-do-list/",
+        github:"https://github.com/AndreasOun/To-do-list",
+        image:require("./project-images/ToDo.png"),
+    },
+    
+];
