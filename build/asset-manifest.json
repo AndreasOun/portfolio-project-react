@@ -1,21 +1,22 @@
 {
   "files": {
     "main.css": "/portfolio-project-react/static/css/main.e00c79e6.css",
-    "main.js": "/portfolio-project-react/static/js/main.3282a4e9.js",
+    "main.js": "/portfolio-project-react/static/js/main.ef688430.js",
     "static/js/787.749b4a44.chunk.js": "/portfolio-project-react/static/js/787.749b4a44.chunk.js",
     "static/media/weather.png": "/portfolio-project-react/static/media/weather.f07a15cfb1e48f0fe123.png",
     "static/media/casino-slot.png": "/portfolio-project-react/static/media/casino-slot.2c2dc9c0d5fb5b2ac452.png",
+    "static/media/Notflix-clone2.png": "/portfolio-project-react/static/media/Notflix-clone2.799a476844bb4c828b5e.png",
     "static/media/memory-card.png": "/portfolio-project-react/static/media/memory-card.67ed76b7d9a39dc9cc4e.png",
     "static/media/coding.png": "/portfolio-project-react/static/media/coding.6d171da87a4854819b72.png",
     "static/media/crypto-tracker.png": "/portfolio-project-react/static/media/crypto-tracker.fbcc95ea2e54222b8d81.png",
     "static/media/ToDo.png": "/portfolio-project-react/static/media/ToDo.d326d1bc6e6289416052.png",
     "index.html": "/portfolio-project-react/index.html",
     "main.e00c79e6.css.map": "/portfolio-project-react/static/css/main.e00c79e6.css.map",
-    "main.3282a4e9.js.map": "/portfolio-project-react/static/js/main.3282a4e9.js.map",
+    "main.ef688430.js.map": "/portfolio-project-react/static/js/main.ef688430.js.map",
     "787.749b4a44.chunk.js.map": "/portfolio-project-react/static/js/787.749b4a44.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e00c79e6.css",
-    "static/js/main.3282a4e9.js"
+    "static/js/main.ef688430.js"
   ]
 }
